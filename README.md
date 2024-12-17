@@ -2,8 +2,16 @@ Website dasawisma ini dirancang berdasarkan permasalahan yang terjadi di Kecamat
 
 
 
-Tampilan dekstop
-![image](https://github.com/user-attachments/assets/36abebc1-ce31-4bfb-8b44-10f7d00a8f9e)
+Tampilan dekstop:
+![Guc4PZQH6nl](https://github.com/user-attachments/assets/036de7bd-f87a-4834-a79d-8971611758cb)
 
-Tampilan HP
+Tampilan HP:
 ![Jla3P43tx11](https://github.com/user-attachments/assets/15d2c824-f828-4604-a7a5-046c95ce4b50)
+
+Tampilan Rekap:
+![eb5397a9300](https://github.com/user-attachments/assets/057a71fc-9d42-4dc3-8967-b067a8cd7c59)
+
+
+Tampilan Formulir:
+![eb5397a9300 (1)](https://github.com/user-attachments/assets/0ce7bf89-e1e1-4c78-932c-566b8577dc10)
+
